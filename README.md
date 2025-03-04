@@ -7,10 +7,11 @@ Table of contents:
 1. Information about individual assignment
 2. Data preparation
 3. Simple neural network 
-4. Multilayer perceptron (Classification and prediction)
-5. Convolutional NN
-6. Recurrent NN
-7. LSTM
-8. Autoencoders
-9. Transformers
-10. GANs
+4. Multilayer perceptron (classification and prediction)
+5. Optimization of parameters
+6. Convolutional NN
+7. Recurrent NN
+8. LSTM
+9. Autoencoders
+10. Transformers
+11. GANs
